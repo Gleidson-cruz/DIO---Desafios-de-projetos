@@ -2,7 +2,6 @@ let heroi = ["Gleidson", gerarNumeroAleatorio(0, 11000)];
 
 function gerarNumeroAleatorio(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
-  heroi[1];
 }
 
 if (heroi[1] <= 1000) {
